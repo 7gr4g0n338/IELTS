@@ -1,3 +1,5 @@
+# Activities 1D
+
 1. Which activities do you regularly do? which activities you never do?
 ```markdown
 "To be honest, I think I have a wide range of internets such as reading books and driving a bicycle is one of my favourite ways to escape from the daily grind. However, there are some activities that I don’t like such as Playing video games and Surfing the Internet".
@@ -53,3 +55,19 @@ No. We are totally different. I am a big fan of driving a bicycle, but my sister
 The first thing that springs in my mind is traveling around Viet Nam with my love.
 It’s always been my dream to discovery new places and myself.
 ```
+
+# Activities 2D
+
+Do you like driving a bicycle?
+
+`Definitely, yes`. I am crazy about driving a bicycle, It's a part of my DNA.
+
+`What`. My favourite type of bicycle is Gear-fix. my bicycle allow me reduce speed by cycling in reverse. so it's really amazing.
+
+`where`. I ofen drive a bicycle on my village's fields about 3 hours at the weekend.
+
+`when`. I need burn stress and relax then i listen to music, drive a bicycle and see blue sky, green fields, high mountains and rivers. it's make me have good moods.
+
+`who`. Sometime I go out alone, sometime I drive a bicycle with my brother or my sister's girl friend. we are not only talk to each other but also visiting historical relics.
+
+`why`. First of all, this helps me to relax and have good health. another reason is discovering all historical relics in my province.
