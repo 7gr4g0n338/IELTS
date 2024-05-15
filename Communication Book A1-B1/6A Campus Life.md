@@ -20,6 +20,7 @@ Things I dislike in university:
 * boring lectures:
   * study many subjects that I find it not neccessary => I feel sleepy and purposeless
 
+## Activity 2B
 
 ### What do you like about your university?
 
@@ -38,4 +39,14 @@ Things I like in university:
     * art activities
 
 * sharpen abilities and skills:
-  * most of teachers in school are trying their best to help me to bring the best out of me and encourage with many activities that help me to push my bounderies.
+  * most of teachers in school are trying their best to help me to bring the best out of me and encourage with many activities that help me to push my boundaries.
+
+## Activity 2C
+
+1. What is the name of your college or university?
+I have been studying computer engineering major at Ha Noi University Science and Technology for 4 years.
+
+2. How many students go to your college?
+
+
+3. 
