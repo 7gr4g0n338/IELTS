@@ -73,14 +73,28 @@ My typical day at college will start by a lession from 6h30 until 11h45 AM, then
 I realize three big differneces between my college life and high school days that the first, I have to take care myself such as clean the room, cooking, do laundry ... and next I can do everything which I want like singing, watching aninme until the midnight... the finally, I can held parties whenever i want. This is amazing life. kaka 
 
 8. What is your major? Why did you choose your major? Do you have any regrets?
-My major is computer engineering
+My major is computer engineering. I don't intented to choose this major, but my point is just enough to entry this major, so I learnt this major and graduated after 4 years. after 2 years, I joined university's lab and learn more about Networking and Security, So I am interested in security and deciced to find a security jobs. 
 
 9. What is the most difficult class you have taken so far?
+I think the most difficult class which I learnt is Operation system. in this class, i have to program a project and pass a exam relative to this project. It's so hard with me and i don't enough spend time for them.
+
 10. Have you participated in a college festival?
+Yes, I am participated in many festival in university. At one in all, I joined with my class at new student welcome festival. It's so crowed and very happy, everybody danced, sang and shoutout "Push your hands up". It's awesome.
+
 11. Are you a member of any student groups? Which ones? What do you do? Are you satisfied with what's happening with your group(s)?
+Yeah, I was a member of Bcorn student group which supported all student in education and exams. I teaches digital electric subject and micro-process subject for my friends and all student need to pass exam. I really like this, because i can deep learn about this subjects and make new friend with anybody registed subjects. 
+
 12. What are the top three things you hope to get out of (get as a result of) your university days?
+I think the top three things I hope to get out of my university days is get scholarship, make much money and start up. Although, I did not this but i tried my best and have good experiences at that moments. So, I don't have any thing to regret at my university.
+
 13. Did you have any college romances?
+Yeah, certainly. I have a romances in my first years of college with my girl friend who studied a University near mine. she is so cute, kindly and intelligent, She make me more motivated when i have exams. we have many good memory in Ha Noi and we keep on contact like a friend after breaking our relationship.
+
 14. Do you prefer living in a dormitory or living outside your university?
-15. Do you often procrastinate your study?
-Have you ever pulled an all nightery?
+I lived outside my university with my friend about 5 years and I like this. Because We can do everything which I want such as held party overnight...
+
+15. Do you often procrastinate your study? Have you ever pulled an all nightery?
+Definitely, I had a long period when I only want play game overnight, sleeping until afternoon and hang out with friends then the learning results was bad. I realized I must change myself and life style to improve my skills and get the goal. So i planed for learning, playing, going to webinars.
+
 16. Do you skip class very often?
+Sometime, I absent few day in class to sleep, hang out or do research in lab room. But this don't effect to learn in class. because I often borrow my friend's note to write again homework or knowledges. 
