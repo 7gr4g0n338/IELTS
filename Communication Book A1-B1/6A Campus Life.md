@@ -20,9 +20,7 @@ Things I dislike in university:
 * boring lectures:
   * study many subjects that I find it not neccessary => I feel sleepy and purposeless
 
-=> “There are many things that I hate about my school. First of all, I have to […]. The 
-second thing I dislike at school is […].The other reason might be […]. Last but not 
-least is […]. I have to […] so […]”
+=> “There are many things that I hate about my school. First of all, I have to wake up early. Because I am a person who is lazy and like feel warming in blanket. The second thing I dislike at school is boring lectures. this is happened when I study many subjects that I find it not neccessary and it make me feel sleepy and purposeless. The other reason might be up to my eyes in study and deadline. Last but not least is study all day. I have to do a ton of homework and presentations so those things always make me feel exhausted”
 
 ## Activity 2B
 
@@ -45,9 +43,7 @@ Things I like in university:
 * sharpen abilities and skills:
   * most of teachers in school are trying their best to help me to bring the best out of me and encourage with many activities that help me to push my boundaries.
 
-=> “University has many great things to offer. To begin with, I can […]. The second 
-thing I should mention is […]. The other reason why I like university is […]. Last but 
-not least, university helps me hugely to […]”
+=> “University has many great things to offer. To begin with, I can make new friends. The second thing I should mention is learn new things such as i can explore that how to build a network for my house. The other reason why I like university is discover the real me. Last but not least, university helps me hugely to sharpen abilities and skills”
 
 ## Activity 2C
 
