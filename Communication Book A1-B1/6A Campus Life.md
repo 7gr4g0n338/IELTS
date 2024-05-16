@@ -44,6 +44,7 @@ Things I like in university:
 ## Activity 2C
 
 1. What is the name of your college or university?
+
 I have been studying computer engineering major at Ha Noi University Science and Technology for 4 years.
 
 2. How many students go to your college?
