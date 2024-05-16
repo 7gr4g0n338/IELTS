@@ -1,11 +1,11 @@
 # Activities 1D
 
 1. Which activities do you regularly do? which activities you never do?
-```markdown
+
 "To be honest, I think I have a wide range of internets such as reading books and driving a bicycle is one of my favourite ways to escape from the daily grind. However, there are some activities that I don’t like such as Playing video games and Surfing the Internet".
 
 "To be honest, Walking on the fields is a part of my DNA. Without Walking on the field, I don’t believe I could do anything else to burn stress".
-```
+
 
 2. What hobbies / free-time activities are popular in your country?
 ```markdown
