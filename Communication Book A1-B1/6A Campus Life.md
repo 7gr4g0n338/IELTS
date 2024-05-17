@@ -20,7 +20,14 @@ Things I dislike in university:
 * boring lectures:
   * study many subjects that I find it not neccessary => I feel sleepy and purposeless
 
+before:
 => “There are many things that I hate about my school. First of all, I have to wake up early. Because I am a person who is lazy and like feel warming in blanket. The second thing I dislike at school is boring lectures. this is happened when I study many subjects that I find it not neccessary and it make me feel sleepy and purposeless. The other reason might be up to my eyes in study and deadline. Last but not least is study all day. I have to do a ton of homework and presentations so those things always make me feel exhausted”
+không được để câu bị động sau the other reason might be ... như trên, vì phải có chủ thể bị động là tôi, ...
+
+after fixing:
+=> “There are many things that I hate about my school. First of all, I have to wake up early. Honestly to say, I am a person who is lazy and like feel warming in blanket. 
+The second thing I dislike at school is boring lectures. this is happened when I study many subjects that I find it not neccessary and it make me feel sleepy and purposeless. 
+The second thing I dislike at school is that I am up to my eyes in study and deadline. Last but not least is boring lectures. I have to do a ton of homework and presentations so those things always make me feel exhausted”
 
 ## Activity 2B
 
