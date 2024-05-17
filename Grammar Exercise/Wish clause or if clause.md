@@ -25,23 +25,76 @@
 20.	If you (speak) more slowly, he might have understood you. => HAD SPOKEN. DK LOAI 3
 
 ### 2. Use UNLESS instead of IF.
-1.	If you are not careful, you will cut yourself with that knife.
+1.	If you are not careful, you will cut yourself with that knife.<br/>
 => Unless you are careful, you will cut yourself with that knife.
-2.	If you do not like this one, I’ll bring you another.
+2.	If you do not like this one, I’ll bring you another.<br/>
 => Unless you like this one, I’ll bring you another.
-3.	I’ll not be able to do any work if I do not have a quiet room.
+3.	I’ll not be able to do any work if I do not have a quiet room.<br/>
 => I’ll not be able to do any work, unless i have a quite room.
-4.	If she does not hurry, she’ll be late.
+4.	If she does not hurry, she’ll be late.<br/>
 => Unless she hurry, she'll be late.
-5.	If we had more rain, our crops would be better.
+5.	If we had more rain, our crops would be better.<br/>
 => Unless we had more rain, our crops would not be better.
-6.	The crops would have been ruined if the flood had risen higher. 
+6.	The crops would have been ruined if the flood had risen higher. <br/>
 => The crops would not have been ruined, unless the flood had risen higher.
-7.	If you had not sneezed, he wouldn’t have known that we were there.
+7.	If you had not sneezed, he wouldn’t have known that we were there.<br/>
 => Unless you had sneezed,  he wouldn’t have known that we were there.
-8.	If she did her hair differently, she would look quite nice.
+8.	If she did her hair differently, she would look quite nice.<br/>
 => Unless she did her hair differently, she would not look quite nice.
-9.	If John had played for our football team, we would not have lost the game.
+9.	If John had played for our football team, we would not have lost the game.<br/>
 => Unless John had played for our football team, we would have lost the game.
-10.	If I won a big prize in a lottery, I’d give up my job.
+10.	If I won a big prize in a lottery, I’d give up my job.<br/>
 => Unless I won a big prize in a lottery, I’d not give up my job.
+
+### 3. Make conditional sentences without conjunctions.
+1.	If I were you, I’d accept the job.<br/>
+=> Were I you, I’d accept the job.
+
+2.	If it were nice, we would go for a walk.<br/>
+=> Were it nice, we would go for a walk.
+
+3.	I would come to her wedding if I were invited.<br/>
+=> Would I come to her wedding if I were invited.
+
+4.	Would you visit me if I were sent to prison?<br/>
+=> Would you visit me were I sent to prison?
+
+5.	Would you have written to her if you had known her address?<br/>
+=> Would you have written to her had you known her address?
+
+6.	What would you do if today were a holiday?<br/>
+=> What would you do were today a holiday?
+
+7.	If they had asked me I would have helped them.<br/>
+=> Had they asked me I would have helped them.
+
+### 4. Rewrite the sentences below, using WISH or IF ONLY to express washes.<br/>
+1.	My father isn’t here now. I want him to be here now.
+=> I wish My father were here now
+
+2.	You talk more than you work. The teacher wants you to work more than to talk.<br/>
+=> I wish You told more than you work.
+
+3.	John would like to be an astronaut when he grows up.<br/>
+=> I wish John would have liked to be an astronaut when he grows up.
+
+4.	I’m sorry I didn’t help you yesterday.<br/>
+=> I wish I had helped you yesterday.
+
+5.	I regret that you didn’t give me a chance to tell you the truth.<br/>
+=> I wish You had given me a chance to tell you the truth.
+
+6.	Mary is afraid she won’t be able to attend your wedding next week.<br/>
+=> I wish Mary would be able to attend your wedding next week.
+
+7.	We regret that we didn’t have enough money to buy that house.<br/>
+=> I wish We had had enough money to by that house.
+
+8.	You drive too fast. I’d like you to drive more slowly.<br/>
+=> I wish You drived too fast.
+
+9.	You are too lazy. The teacher wants you to be more studious.<br/>
+=> I wish You were not too lazy. 
+
+10.	I’m afraid he won’t get over his illness soon.<br/>
+=> I wish he would get over his illness soon.
