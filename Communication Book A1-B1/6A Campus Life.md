@@ -50,7 +50,12 @@ Things I like in university:
 * sharpen abilities and skills:
   * most of teachers in school are trying their best to help me to bring the best out of me and encourage with many activities that help me to push my boundaries.
 
-=> “University has many great things to offer. To begin with, I can make new friends. The second thing I should mention is learn new things such as i can explore that how to build a network for my house. The other reason why I like university is discover the real me. Last but not least, university helps me hugely to sharpen abilities and skills”
+Before:
+=> “University has many great things to offer. To begin with, I can make new friends. The second thing I should mention is that I learn new things such as i can explore that how to build a network for my house. The other reason why I like university is discover the real me. Last but not least, university helps me hugely to sharpen abilities and skills”
+
+after :
+![image](https://github.com/7gr4g0n338/IELTS/assets/95563870/9a156bb6-41a5-4510-b0e4-a32ac7c83a12)
+
 
 ## Activity 2C
 
