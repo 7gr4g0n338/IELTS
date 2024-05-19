@@ -24,9 +24,9 @@ ref: https://www.youtube.com/watch?v=fu_ofr2HzY0&list=PLD7C5CB40C5FF0531&index=4
 | deliver | /dɪˈlɪv.ər/ |
 | task | /tɑːsk/ |
 
-1 pronounciation mistake:
-Dangerous: /đên gơ rớt / -->  /ˈdeɪn.dʒər.əs/
-Society :sâu sai ơ ty  -->  /səˈsaɪ.ə.ti/
-Common :cơm mon-->  /ˈkɒm.ən/
-Designing, snakes, easily , similar --> ngọng l, n 
+1 pronounciation mistake:<br/>
+Dangerous: /đên gơ rớt / -->  /ˈdeɪn.dʒər.əs/ <br/>
+Society :sâu sai ơ ty  -->  /səˈsaɪ.ə.ti/ <br/>
+Common :cơm mon-->  /ˈkɒm.ən/ <br/>
+Designing, snakes, easily , similar --> ngọng l, n  <br/>
 
