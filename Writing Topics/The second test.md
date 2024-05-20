@@ -37,3 +37,21 @@ I often read book in my room and share experience which I learnt with my friends
 
 the first reason I love reading book is that it is very interesting to discovery new things in books. Books make me open the mindset about how way everything active. moreover, I can apply all things i read to my life and see happened results. For example, I tried to apply a lesson about "How to understand a girl" to help my girl friend when she sad and I realized that a girl is a problem. So it's mission impossible. It's a great way to connect to friends by sharing your experience and finding common opinions. Finnaly, reading book make man become a gentleman.
 
+
+## Describe a memorable experience at university
+
+What the experience was?
+
+When it happened?
+
+Who was involved?
+
+Why it was memorable?
+
+There are many things that I experienced at university and one of my most memorable experience is teaching for many student of my ages. This had happened for 4 years ago, when I was in 2 year of university.<br/>
+
+That involved my friends include Duoc, Lan, Hieu and a few other friends. We built a team to teach all students which need revise all knowledge of subjects before joining exams. <br/>
+
+The experience was memorable for several reason. First, We started a team with 9 member and then up to 40 member with 20 subjects which we teached. Additionally, We helped many students get A or B+ grade when the exam season was coming. So i'm very happy and pround of friends when my friends show their grade table. And then We decided to record teaching video and upload them to website to reduce time for students and spend time to explain every student's questions. It's really effective and useful for both my team and my students. Another reason, I realized the importance of consistency between members and leader before doing anything. If you are not consistency, you will have big problems with everybody. And this reason, We broke up with Hieu when He did not allow us to know about the amount of students registered.
+
+
