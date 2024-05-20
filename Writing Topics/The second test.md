@@ -2,7 +2,7 @@
 ![image](https://github.com/7gr4g0n338/IELTS/assets/95563870/3b218bec-81f1-46c2-90f8-8492af953dd5)
 
 
-## Favorite type of weather
+## 1. Favorite type of weather
 What type of the weather?<br/>
 
 what is it like?<br/>
@@ -21,7 +21,7 @@ When the weather is like this, I love to spend time to join outdoor activities. 
 
 The main reason I like this type of weather is that it makes me feel peaceful and healing. Cloudy and windy help us feel relax. Especially, the cool weather allows us feel delicious meals and have deep sleeping. furthermore, this temperature is very suitabe to eat hotpot with friends and family. It's also a great time for couples that can hang out and drink coffee with each other. Finally, This weather makes me remember to Tet's holiday which is a time to gather with family and friends.
 
-## Describe a hobby that you do with friends or family.
+## 2. Describe a hobby that you do with friends or family.
 
 What hobby is? <br/>
 
@@ -38,7 +38,7 @@ I often read book in my room and share experience which I learnt with my friends
 the first reason I love reading book is that it is very interesting to discovery new things in books. Books make me open the mindset about how way everything active. moreover, I can apply all things i read to my life and see happened results. For example, I tried to apply a lesson about "How to understand a girl" to help my girl friend when she sad and I realized that a girl is a problem. So it's mission impossible. It's a great way to connect to friends by sharing your experience and finding common opinions. Finnaly, reading book make man become a gentleman.
 
 
-## Describe a memorable experience at university
+## 3. Describe a memorable experience at university
 
 What the experience was?<br/>
 
@@ -55,7 +55,7 @@ That involved my friends including Duoc, Lan, Hieu and a few other friends. We b
 The experience was memorable for several reason. First, We started a team with 9 members and then up to 40 member with 20 subjects which we teached. Additionally, We helped many students get A or B+ grades when the exam season was coming. So i'm very happy and proud of my friends when they show their grade table. And then We decided to record teaching videos and upload them to the website to reduce time for students and spend time to explain every student's questions. It's really effective and useful for both my team and my students. Another reason, I realized the importance of consistency between members and leader before doing anything. If you are not consistent, you will have big problems with everybody. And this reason, We broke up with Hieu when he did not allow us to know about the amount of students registered.
 
 
-## Describe a job you would like to have in the future
+## 4. Describe a job you would like to have in the future
 
 What the job is?<br/>
 
