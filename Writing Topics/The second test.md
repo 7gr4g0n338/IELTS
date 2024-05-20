@@ -48,10 +48,10 @@ Who was involved?
 
 Why it was memorable?
 
-There are many things that I experienced at university and one of my most memorable experience is teaching for many student of my ages. This had happened for 4 years ago, when I was in 2 year of university.<br/>
+There are many things that I experienced at university and one of my most memorable experience is teaching for many student of my ages. This had happened for 4 years ago, when I was in 2 years of university.<br/>
 
-That involved my friends include Duoc, Lan, Hieu and a few other friends. We built a team to teach all students which need revise all knowledge of subjects before joining exams. <br/>
+That involved my friends including Duoc, Lan, Hieu and a few other friends. We built a team to teach all students which need to revise all knowledge of subjects before joining exams. <br/>
 
-The experience was memorable for several reason. First, We started a team with 9 member and then up to 40 member with 20 subjects which we teached. Additionally, We helped many students get A or B+ grade when the exam season was coming. So i'm very happy and pround of friends when my friends show their grade table. And then We decided to record teaching video and upload them to website to reduce time for students and spend time to explain every student's questions. It's really effective and useful for both my team and my students. Another reason, I realized the importance of consistency between members and leader before doing anything. If you are not consistency, you will have big problems with everybody. And this reason, We broke up with Hieu when He did not allow us to know about the amount of students registered.
+The experience was memorable for several reason. First, We started a team with 9 member and then up to 40 member with 20 subjects which we teached. Additionally, We helped many students get A or B+ grades when the exam season was coming. So i'm very happy and proud of my friends when they show their grade table. And then We decided to record teaching videos and upload them to the website to reduce time for students and spend time to explain every student's questions. It's really effective and useful for both my team and my students. Another reason, I realized the importance of consistency between members and leader before doing anything. If you are not consistent, you will have big problems with everybody. And this reason, We broke up with Hieu when he did not allow us to know about the amount of students registered.
 
 
