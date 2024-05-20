@@ -40,18 +40,33 @@ the first reason I love reading book is that it is very interesting to discovery
 
 ## Describe a memorable experience at university
 
-What the experience was?
+What the experience was?<br/>
 
-When it happened?
+When it happened?<br/>
 
-Who was involved?
+Who was involved?<br/>
 
-Why it was memorable?
+Why it was memorable?<br/>
 
 There are many things that I experienced at university and one of my most memorable experience is teaching for many student of my ages. This had happened for 4 years ago, when I was in 2 years of university.<br/>
 
 That involved my friends including Duoc, Lan, Hieu and a few other friends. We built a team to teach all students which need to revise all knowledge of subjects before joining exams. <br/>
 
-The experience was memorable for several reason. First, We started a team with 9 member and then up to 40 member with 20 subjects which we teached. Additionally, We helped many students get A or B+ grades when the exam season was coming. So i'm very happy and proud of my friends when they show their grade table. And then We decided to record teaching videos and upload them to the website to reduce time for students and spend time to explain every student's questions. It's really effective and useful for both my team and my students. Another reason, I realized the importance of consistency between members and leader before doing anything. If you are not consistent, you will have big problems with everybody. And this reason, We broke up with Hieu when he did not allow us to know about the amount of students registered.
+The experience was memorable for several reason. First, We started a team with 9 members and then up to 40 member with 20 subjects which we teached. Additionally, We helped many students get A or B+ grades when the exam season was coming. So i'm very happy and proud of my friends when they show their grade table. And then We decided to record teaching videos and upload them to the website to reduce time for students and spend time to explain every student's questions. It's really effective and useful for both my team and my students. Another reason, I realized the importance of consistency between members and leader before doing anything. If you are not consistent, you will have big problems with everybody. And this reason, We broke up with Hieu when he did not allow us to know about the amount of students registered.
 
 
+## Describe a job you would like to have in the future
+
+What the job is?<br/>
+
+What skills or qualifications are needed for this job?<br/>
+
+Why you are interested in this job?<br/>
+
+How this job will benefit your career?<br/>
+
+In the future, I hope to become a security engineer. This job demands various skills such as effective communication, critical thinking and having well English. To become a security engineer, typically, one needs a degree in education or certification relative to Offensive security.<br/>
+
+I am keen on working security jobs because I love finding vulnerabilities and fixing them. moreover, the opportunity to learn new technology is definitely and the salary is also higher other jobs. <br/>
+
+Becoming a security engineer will benefit my career  in several ways. first, it will allow me to understand "How to defend all attack in the internet?". additionally, It will improve my attack skill through vulnerabilities which I meet daily, read at pages. Security engineering also offers opportunities for professional hacker growth.
