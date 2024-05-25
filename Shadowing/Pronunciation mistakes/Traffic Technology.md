@@ -15,3 +15,4 @@
 | route | /ruːt/ |
 | consider | /kənˈsɪd.ər/ |
 | entire | /ɪnˈtaɪər/ |
+| says | sæzz |
