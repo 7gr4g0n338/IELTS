@@ -13,13 +13,15 @@ what you do during this weather?<br/>
 
 why you like this type of weather?<br/>
 
-I am a kind of cool weather person. this weather is cloudy, cool and windy. Usually, the temperature is around 18 to 24 degrees Celsius, it's help us have a deep sleeping and feel more delicous meals. moreover, activities is also suitable for outdoor. <br/>
+NOTE: `fail sentence` is fail and after this is right sentence.
 
-Typically, this cool weather happens in the spring, late autumn and later winter months. Sometime, We also get similar days in summer after it's rain. <br/>
+I am a kind of cool weather person. this weather is cloudy, cool and windy. Usually, the temperature is around 18 to 24 degrees Celsius, `it's help us have a deep sleeping and feel more delicous meals. moreover, activities is also suitable for outdoor`. IT HELPS ME SLEEP DEEPLY AND ENJOY MEALS MORE. Moreover, this weather is perfect to take part in many  outdoor activities. <br/>
+
+Typically, this cool weather happens in the spring, late autumn and later winter months. Sometime, We also get similar days in summer after `it's rain` IT RAINS. <br/>
 
 When the weather is like this, I love to spend time to join outdoor activities. For example, I will drive bicycle around my village's field or walk on the streets. Additionally, I really want to go camping with my friends to enjoy this weather and landscapes. Sometime, I also like reading book and sleeping in the bed with this weather. It's awesome.<br/>
 
-The main reason I like this type of weather is that it makes me feel peaceful and healing. Cloudy and windy help us feel relax. Especially, the cool weather allows us feel delicious meals and have deep sleeping. furthermore, this temperature is very suitabe to eat hotpot with friends and family. It's also a great time for couples that can hang out and drink coffee with each other. Finally, This weather makes me remember to Tet's holiday which is a time to gather with family and friends.
+The main reason I like this type of weather is that it makes me feel peaceful and `healing` HEALDED. Cloudy and windy days help `us` ME relax. Especially, the cool weather `allows us feel delicious meals and have deep sleeping` ALSO MAKES FOOD TASTE BETTER AND HELPS ME SLEEP WELL. Furthermore, this temperature is very suitabe to eat hotspot with friends and family. It's also a great time for couples `that can` TO hang out and drink coffee `with each other` TOGETHER. Finally, This weather `makes` REMINDS me `remember to` OF Tet's holiday, which is a time to gather with family and friends.
 
 ## 2. Describe a hobby that you do with friends or family.
 
@@ -33,9 +35,9 @@ Why you enjoy doing it with them?<br/>
 
 To be honest, I think I have a wide range of interests such as watching movie, driving bicycle, reading book, listening music ... and reading book is one of my favourite ways to escape from the daily grind. <br/>
 
-I often read book in my room and share experience which I learnt with my friends. I usually read books at the crack of dawn or the night when I free time. During this time, I only focus on reading and turn off all electric devices, I think I'm swimming in the book pages at that moment. <br/>
+I often read `book` BOOKS in my room and share `experience which I learnt with my friends` WHAT I'VE LEARNED WITH MY FRIENDS. I usually read `books at the crack of dawn or the night when I free time` AT DAWN OR AT NIGHT WHEN I HAVE FREE TIME. During `this time` THESE TIMES, I `only focus on` FOCUS ONLY ON reading and turn off all electric devices, `I think I'm swimming in the book pages at that moment` IT FEELS LIKE I'M IMMERSED IN THE PAGES OF THE BOOK AT THAT MOMENT. <br/>
 
-the first reason I love reading book is that it is very interesting to discovery new things in books. Books make me open the mindset about how way everything active. moreover, I can apply all things i read to my life and see happened results. For example, I tried to apply a lesson about "How to understand a girl" to help my girl friend when she sad and I realized that a girl is a problem. So it's mission impossible. It's a great way to connect to friends by sharing your experience and finding common opinions. Finnaly, reading book make man become a gentleman.
+THERE ARE MANY REASONS WHY I HAVE THIS HOBBY .The first reason I love reading book is that it is very interesting to discovery new things `in books` THROUGH THEM. `Books make me open the mindset about how way everything active` BOOKS OPEN MY MIND TO DIFFERENT PERSPECTIVES ON HOW EVERYTHING WORKS. Moreover, I can apply `all things i read to my life and see happened results` WHAT I LEARN TO MY OWN LIFE AND SEE THE RESULTS FIRSTHAND. For example, `I tried to apply a lesson about "How to understand a girl" to help my girl friend when she sad and I realized that a girl is a problem. So it's mission impossible` WHEN MY GIRLFRIEND WAS FEELING SAD, I TRIED APPLYING A LESSON ON 'HOW TO UNDERSTAND GIRLS' AND THEN I REALISED THAT UNDERSTANDING A GIRL IS A COMPLEX TASK!. DESPITE THIS, It's a great way to connect `to` WITH MY friends by sharing experienceS and finding common `opinions` GROUND. Finally, `reading book make man become a gentleman` READING BOOKS HELPS ME BECOME A MORE KNOWLEDGEABLE AND INSIGHFUL PERSON.
 
 
 ## 3. Describe a memorable experience at university
@@ -48,7 +50,7 @@ Who was involved?<br/>
 
 Why it was memorable?<br/>
 
-There are many things that I experienced at university and one of my most memorable experience is teaching for many student of my ages. This had happened for 4 years ago, when I was in 2 years of university.<br/>
+There are many things that I experienced at university, and one of my most memorable experienceS is teaching `for many student of my ages` STUDENTS OF MY OWN AGE. This had happened for 4 years ago, when I was in 2 years of university.<br/>
 
 That involved my friends including Duoc, Lan, Hieu and a few other friends. We built a team to teach all students which need to revise all knowledge of subjects before joining exams. <br/>
 
