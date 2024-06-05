@@ -76,6 +76,28 @@ Note: Trường hợp đặc biệt của so sánh nhất và so sánh hơn
 | old | older/elder | the oldest/ the eldest |
 | Tính từ là 2 âm tiết mà kết thúc bằng đuôi y, le, er, ow | Thêm er: Happier, simpler, clever -> cleverer, narrow -> narrower | the + er : the happinest, the simplest, the cleverest, the narrowest |
 
+## So sánh gấp số lần
+chỉ cần thêm số lần vào trước cấu trúc so sánh bằng.<br/>
+Eg. <br/>
+She is twice as smart as John
+
+> S1 + be/V + số lần + as + adj/adv + as + S2
+
+## So sánh kép
+Eg. <br/>
+The harder you work, the richer you become<br/>
+The more carefully you drive, the fewer traffic accidents there are.<br/>
+
+> The + SSH + S1 + V, the SSH + S2 + V
+
+## So sánh cấp tiến
+Eg. <br/>
+she becomes more and more beautiful<br/>
+the weather is hotter and hotter<br/>
+it is darker and darker.
+
+> Er and er / more and more + adj
+
 
 
 
